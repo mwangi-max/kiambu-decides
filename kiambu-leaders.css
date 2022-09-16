@@ -118,7 +118,7 @@ header{
     box-shadow: 0 10px 15px #181818;
 }
 .background{
-    background: url('/multitude.jpg');
+    background: url('IEBC CHAIR.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -136,7 +136,7 @@ header{
     left:0;
     height:100%;
     width:100%;
-    background:url('/images/IEBC\ CHAIR.jpg');
+    background:url('multitude.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
